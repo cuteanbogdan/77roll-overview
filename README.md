@@ -38,12 +38,12 @@ This project is divided into two main components:
 
 ### Roulette Page:
 
-![Roulette Page](./RoulettePage.png)
+![Roulette Page](https://github.com/cuteanbogdan/77roll-overview/blob/main/RoulettePage.PNG)
 
 ### Coinflip Page:
 
-![Coinflip Page](./CoinflipPage.png)
+![Coinflip Page](https://github.com/cuteanbogdan/77roll-overview/blob/main/CoinflipPage.PNG)
 
 ### Profile Page:
 
-![Profile Page](./ProfilePage.png)
+![Profile Page](https://github.com/cuteanbogdan/77roll-overview/blob/main/ProfilePage.PNG)
