@@ -2,6 +2,12 @@
 
 77ROLL is a full-stack, real-time gaming platform that delivers a thrilling experience with both roulette and coinflip games.
 
+https://agreeable-hill-0abdef003.5.azurestaticapps.net/coinflip
+
+Demo account:
+- Email: demo@mail.com
+- Password: demo123
+
 ## Project Components
 
 This project is divided into two main components:
